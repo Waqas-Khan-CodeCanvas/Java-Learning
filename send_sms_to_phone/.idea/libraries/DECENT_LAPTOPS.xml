@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="DECENT LAPTOPS">
+    <CLASSES>
+      <root url="file://$USER_HOME$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.24.0/templates/invisible-project/src" />
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.44.0/resources/maven-wrapper/.mvn/wrapper" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/2ad7c134" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/cacc032" />
+      <root url="file://$USER_HOME$/Desktop/2nd-semester-materials/JAVA/assignments/WaqaskhanAzeemKhan_24pwbcs1141/src" />
+      <root url="file://$USER_HOME$/Desktop/2nd-semester-materials/JAVA/assignments/lab-02-task-02WaqaskhanAzeemKhan_24pwbcs1141/src" />
+      <root url="file://$USER_HOME$/Desktop/ZaryabKhan-Razaullah-RegNo-24pwbcs1111-CSIT-pwr-batch-24-lab-task-01/src" />
+      <root url="file://$USER_HOME$/Desktop/java-notes/JAVA-MIT/JAVA-DATASET-MIT" />
+      <root url="file://$USER_HOME$/Desktop/lab_03/LabTask03/src" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/twilio-java-main/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/twilio-java-main/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../BANK_CLASS_WORD_06/src" />
+      <root url="file://$PROJECT_DIR$/../ClassWork_BankSystemSimulation/src" />
+      <root url="file://$PROJECT_DIR$/../Java_Lab-03_ClassWork/src" />
+      <root url="file://$PROJECT_DIR$/../Lecture_4_Java_Control_Structures_and_Loops/src" />
+      <root url="file://$PROJECT_DIR$/../WaqasKhan_AzeemKhan_24pwbcs1141_lab_03/src" />
+      <root url="file://$PROJECT_DIR$/../first-programe/src" />
+      <root url="file://$PROJECT_DIR$/../javaTutorialsForBeginners/src" />
+      <root url="file://$PROJECT_DIR$/../lab-01-WaqaskhanAzeemKhan_24pwbcs1141/src" />
+      <root url="file://$PROJECT_DIR$/../lab-02-task-02WaqaskhanAzeemKhan_24pwbcs1141/src" />
+      <root url="file://$PROJECT_DIR$/../lecture_05_theory_oops_class_objects/src" />
+      <root url="file://$PROJECT_DIR$/../myATM-machien-simulation-working-and-functional-model/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../test_to_speech/src" />
+    </SOURCES>
+  </library>
+</component>
